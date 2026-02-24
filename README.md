@@ -1,6 +1,6 @@
 # Hi, I'm Pedro Valera 👋
 
-📍 Lima, Peru | 🚀 Marketing Engineer & AI Builder | 🤖 Founder @ [Grow](https://grow.pe)
+📍 Lima, Peru | 🚀 Marketing Engineer & AI Builder
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat&logo=next.js&logoColor=white) ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white) ![HubSpot](https://img.shields.io/badge/HubSpot-FF7A59?style=flat&logo=hubspot&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white) ![Google Ads](https://img.shields.io/badge/Google_Ads-4285F4?style=flat&logo=google-ads&logoColor=white) ![Meta](https://img.shields.io/badge/Meta_Ads-0081FB?style=flat&logo=meta&logoColor=white) ![LinkedIn](https://img.shields.io/badge/LinkedIn_Ads-0A66C2?style=flat&logo=linkedin&logoColor=white)
 
