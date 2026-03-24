@@ -22,11 +22,11 @@
 - **Writing about AI workflows** - Sharing my learnings on [Growth, Marketing & IA](https://www.linkedin.com/newsletters/growth-marketing-ia-6930267318790799360/)
 - **Rapid prototyping** - Full apps in days, not months
 
-## Latest Blog Posts
+## Latest Free Guides
 
-- [Claude Cowork: el agente de IA de escritorio que provocó una caída de $285 mil millones en acciones SaaS](https://pedrovalera.ai/blog/claude-cowork-agente-ia-escritorio-saaspocalypse)
-- [Cómo usar ChatGPT para crear una estrategia de marketing en 1 hora](https://pedrovalera.ai/blog/chatgpt-estrategia-marketing)
-- [5 automatizaciones de IA que toda PYME necesita en 2025](https://pedrovalera.ai/blog/automatizaciones-ia-pyme)
+- [Claude Code Skills 2.0: 20 skills para agentes de IA](https://pedrovalera.ai/recursos/claude-code-skills-2)
+- [n8n MCP + Claude Code: automatiza workflows desde terminal](https://pedrovalera.ai/recursos/n8n-mcp-claude-code)
+- [Claude + HubSpot CRM: configura el conector y 20 prompts por departamento](https://pedrovalera.ai/recursos/claude-hubspot-crm)
 
 ## What I've built at scale
 
