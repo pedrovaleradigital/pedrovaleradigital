@@ -24,7 +24,7 @@
 
 ## Latest Free Guides
 
-- [Claude Code Skills 2.0: 20 skills para agentes de IA](https://pedrovalera.ai/recursos/claude-code-skills-2)
+- [Claude Code Skills 2.0: Cómo construir, testear y optimizar skills de IA](https://pedrovalera.ai/recursos/claude-code-skills-2)
 - [n8n MCP + Claude Code: automatiza workflows desde terminal](https://pedrovalera.ai/recursos/n8n-mcp-claude-code)
 - [Claude + HubSpot CRM: configura el conector y 20 prompts por departamento](https://pedrovalera.ai/recursos/claude-hubspot-crm)
 
